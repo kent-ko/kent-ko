@@ -39,6 +39,14 @@ I'm a frontend developer with 5+ years of experience building responsive, secure
  Let’s build great digital experiences together.  
 > Connect with me and drop a message on [LinkedIn](https://www.linkedin.com/in/ken-kipkorir/) or email me at kenkorir.ko@gmail.com.
 
+## 🌱 I'm currently learning
+- Advanced animation techniques
+- Micro-frontend architecture
+- Web performance optimization
+- Exploring modern UI/UX patterns
+- Diving deeper into TypeScript and state management solutions
+
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -66,20 +74,13 @@ I'm a frontend developer with 5+ years of experience building responsive, secure
 </div>
 
 
-## 📊 GitHub Stats
-![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kent-ko&show_icons=true&theme=tokyonight)
+## 📊 Current Stats
+    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kent-ko&layout=compact&theme=tokyonight)](https://github.com/kent-ko/github-readme-stats)
+![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kent-ko&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kent-ko&layout=compact&theme=tokyonight)](https://github.com/kent-ko/github-readme-stats)
 
+  
 
-## 🌱 I'm currently learning
-- Advanced animation techniques
-- Micro-frontend architecture
-- Web performance optimization
-- Exploring modern UI/UX patterns
-- Diving deeper into TypeScript and state management solutions
-
----
 
 ⭐️ From [kent-ko](https://github.com/kent-ko)
 
