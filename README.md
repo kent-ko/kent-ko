@@ -4,51 +4,25 @@
 </div>
 
 
-<h1> Hello 👋, I'm Ken Kipkorir </h1>
+<h1> ✅ Ken Kipkorir</h1> 
 
-## Front-End Developer | React & Angular Specialist | Crafting User-Friendly Digital Experiences
+### Front-End Developer | React & Angular Specialist | Crafting User-Friendly Digital Experiences
+---
 
 I'm a frontend developer with 5+ years of experience building responsive, secure, and intuitive web applications. I specialize in modern JavaScript frameworks (React & Angular), with a strong foundation in TypeScript, UI/UX best practices, and integrating RESTful APIs.
 
-🔧 My Specialization:
-
-  - ⚛️ React & Angular Frontends – building scalable SPAs and dashboards with reactive state management.
-
-  - 🎨 Design Implementation – translating Figma prototypes into pixel-perfect UI using HTML, CSS/SCSS, and component libraries.
-
-  - 🔐 Authentication & Security – implementing robust user auth with MSAL and role-based access.
-
-  - 🚀 DevOps & CI/CD – deploying apps via Azure Pipelines and managing deployments with GitHub Actions.
-
-  - 🧪 Testing – ensuring quality with Jest for unit testing and Cypress for end-to-end workflows.
+My area of expertise:
+  - ⚛️ Building scalable SPAs and dashboards using modern frameworks (React & Angular) with reactive state management.
+  - 🎨 Design & translate Figma prototypes into pixel-perfect UI using HTML, CSS/SCSS, and component libraries.
+  - 🔐 Robust and secure user through role-based access.
+  - 🚀 Deploying apps via Azure Pipelines and managing deployments with GitHub Actions (DevOps & CI/CD).
+  - 🧪 Ensuring quality with Jest for unit testing and Cypress for end-to-end workflows.
 
 
-
-🔄 Always integrating backend APIs, securing the frontend, and pushing boundaries in performance and accessibility of all web applications.
-
-## 📫 Let's Collaborate
-
-🌱 I’m open to:
-  - Collaborating on frontend-focused open-source projects (React, Angular, TypeScript, JavaScript).
-  - Writing about frontend architecture, UI/UX, and performance optimization.
-  - Joining impactful teams in EdTech, GovTech, or ClimateTech.
-  - Contributing to OSS in the React ecosystem and beyond.
-  - Exploring design systems, accessibility standards, and modern web performance techniques.
-  - Speaking or writing about frontend development, testing strategies, and developer workflows.
-
- Let’s build great digital experiences together.  
-> Connect with me or drop a message on [LinkedIn](https://www.linkedin.com/in/ken-kipkorir/) or email me at kenkorir.ko@gmail.com.
-
-## 🌱 I'm currently learning
-- Advanced animation techniques
-- Micro-frontend architecture
-- Web performance optimization
-- Exploring modern UI/UX patterns
-- Diving deeper into TypeScript and state management solutions
+Always integrating backend APIs, securing the frontend, and pushing boundaries in performance and accessibility of all web applications.
 
 
-
-## 🛠️ Tech Stack & Tools
+### 🧰 Languages and Tools
 
 
 <div align="left">
@@ -72,6 +46,31 @@ I'm a frontend developer with 5+ years of experience building responsive, secure
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
+
+---
+
+
+## 📫 Let's Collaborate
+
+🌱 I’m open to:
+  - Collaborating & writing about frontend and its architecture, UI/UX, and performance optimization.
+  - Joining impactful teams in EdTech, GovTech, or ClimateTech.
+  - Contributing to OSS in the React ecosystem and beyond.
+  - Exploring design systems, accessibility standards, and modern web performance techniques.
+
+ Let’s build great digital experiences together.  
+> Connect with me or drop a message on [LinkedIn](https://www.linkedin.com/in/ken-kipkorir/) or email me at kenkorir.ko@gmail.com.
+
+---
+
+## 🌱 I'm currently learning
+- Advanced animation techniques
+- Micro-frontend architecture
+- Web performance optimization
+- Exploring modern UI/UX patterns
+- Diving deeper into TypeScript and state management solutions
+
+
 
 
 ## 📊 Current Stats
