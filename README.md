@@ -37,7 +37,7 @@ I'm a frontend developer with 5+ years of experience building responsive, secure
   - Speaking or writing about frontend development, testing strategies, and developer workflows.
 
  Let’s build great digital experiences together.  
-> Connect with me and drop a message on [LinkedIn](https://www.linkedin.com/in/ken-kipkorir/) or email me at kenkorir.ko@gmail.com.
+> Connect with me or drop a message on [LinkedIn](https://www.linkedin.com/in/ken-kipkorir/) or email me at kenkorir.ko@gmail.com.
 
 ## 🌱 I'm currently learning
 - Advanced animation techniques
